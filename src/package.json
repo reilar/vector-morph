@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "three": "^0.174.0",
+    "three-css3d": "^1.0.6",
+    "three-css3drenderer": "^1.0.1",
+    "three-trackballcontrols": "^0.9.0",
+    "tween": "^0.9.0",
+    "vite": "^6.2.1"
+  }
+}
